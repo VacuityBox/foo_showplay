@@ -1,0 +1,4 @@
+[submodule "Deps"]
+	path = Deps
+	url = git@github.com:VacuityBox/foo_showplay_deps.git
+	branch = devel
